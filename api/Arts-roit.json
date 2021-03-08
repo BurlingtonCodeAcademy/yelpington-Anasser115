@@ -1,0 +1,12 @@
+{
+    "id":"Arts-roit",
+    "name": "Arts Roit",
+    "address" : "400 Pine St Burlington, VT 05401",
+    "phone" : "(802) 540-0406",
+    "lat" : "44.4682275",
+    "long" : "-73.2148221",
+    "notes":[
+        "Established in 2013.",
+        "They are a restaurant, bar, art gallery, and performance space."
+    ]
+}
