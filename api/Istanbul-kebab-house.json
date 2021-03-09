@@ -1,0 +1,12 @@
+{
+    "id":"Istanbul-kebab-house",
+    "name": "Istanbul Kebab House",
+    "address" : "Istanbul-kebab-house",
+    "phone" : "(802) 857-5091",
+    "lat" : "44.4753796",
+    "long" : "-73.2126135",
+    "notes":[
+        "Established in 2013.",
+        "Serving truly authentic Turkish cuisine, using the most authentic ingredients available."
+    ]
+}

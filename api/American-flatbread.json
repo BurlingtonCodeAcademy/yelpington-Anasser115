@@ -1,0 +1,13 @@
+{
+    "id":"American-flatbread",
+    "name": "American Flatbread",
+    "address" : "115 St Paul St Burlington, VT 05401",
+    "phone" : "(802) 861-2999",
+    "lat" : "44.47655925",
+    "long" : "-73.21435285244789",
+    "notes":[
+        "They allow dogs, Also offer delivery.",
+        "The Medicine Wheel is a popular dish."
+    ]
+    
+}

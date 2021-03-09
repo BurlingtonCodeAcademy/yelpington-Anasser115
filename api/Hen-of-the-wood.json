@@ -1,0 +1,12 @@
+{
+    "id":"Hen-of-the-wood",
+    "name": "Hen of the Wood",
+    "address" : "55 Cherry St Burlington, VT 05401",
+    "phone" : "(802) 540-0534",
+    "lat" : "44.4790109",
+    "long" : "-73.217258",
+    "notes":[
+        "Established in 2013.",
+        "Serving seasonal American food celebrating the farms of Vermont and the northeast."
+    ]
+}

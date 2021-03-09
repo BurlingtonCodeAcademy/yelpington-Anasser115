@@ -1,0 +1,12 @@
+{
+    "id":"Revolution-kitchen",
+    "name": "Revolution Kitchen",
+    "address" : "9 Center St Burlington, VT 05401",
+    "phone" : "(802) 448-3657",
+    "lat" : "44.4779026",
+    "long" : "-73.2116336",
+    "notes":[
+        "Established in 2013.",
+        "Revolution Kitchen is downtown Burlington's only all-Vegetarian restaurant."
+    ]
+}

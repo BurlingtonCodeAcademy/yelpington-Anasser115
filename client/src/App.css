@@ -36,3 +36,59 @@
     transform: rotate(360deg);
   }
 }
+body{
+  margin: 0em;
+}
+#nav-header{
+  background-color: #dd1c1a ;
+  padding: .5em;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+}
+.nav-link{
+  color: #f2f4f3;
+  text-decoration: none;
+  font-size: 2.5em;
+  margin-left: .5em;
+
+}
+#rest-info{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+  margin-left: 1em;
+  margin-top: 1em;
+  padding: 1em;
+  padding-bottom: 2em;
+  border: 1px solid rgb(232, 229, 229);
+}
+#rest-main{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+}
+#main-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+}
+#rest-name{
+  text-decoration: none;
+  color: black;
+}
+#main-list{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+  margin-left: 1em;
+  margin-top: 1em;
+  padding-left: 1em;
+  border: 1px solid rgb(232, 229, 229);
+}
+#yelp-logo{
+  width: 4em;
+  margin-left: 1em;
+}

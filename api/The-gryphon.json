@@ -1,0 +1,12 @@
+{
+    "id" : "The-gryphon",
+    "name" : "The Gryphon",
+    "address" : "131 Main St Burlington, VT 05401",
+    "phone" : "(802) 489-5699",
+    "lat" : "44.4757399",
+    "long" : "-73.2137432",
+    "notes" : [
+        "Their Gryphon Burger is a popular dish.",
+        "They are closed on tuesdays and wednesdays."
+    ]
+}

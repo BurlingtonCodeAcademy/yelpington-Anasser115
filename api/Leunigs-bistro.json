@@ -1,0 +1,12 @@
+{
+    "id":"Leunigs-bistro",
+    "name": "Leunig's Bistro",
+    "address" : "115 Church St Burlington, VT 05401",
+    "phone" : "(802) 863-3759",
+    "lat" : "44.477264500000004",
+    "long" : "-73.21278867560478",
+    "notes":[
+        "Their Filet Mignon is a popular dish.",
+        "They are closed on sundays and mondays."
+    ]
+}
