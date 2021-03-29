@@ -13,10 +13,7 @@ app.get('/resturant/api/:name',(req,res)=>{
     let name = req.params.name
     res.sendFile(path.resolve(`./api/${name}.json`))
 })
-// app.get('*', (req,res) => {
-//     res.sendFile(path.resolve("./client/build/index.html"))
-// })
-
+// keep listing for the port
 app.listen(port, ()=> {
     console.log(`Listening to port `,port)
 })

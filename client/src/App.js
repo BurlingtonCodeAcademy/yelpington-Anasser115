@@ -1,20 +1,23 @@
-import logo from "./logo.svg";
 import "./App.css";
 import FullList from "./components/FullList";
 import SingleList from "./components/SingleList";
 import NavBar from "./components/NavBar";
-import { useState, useEffect } from "react";
+import { useState} from "react";
+import { Route, Switch} from "react-router-dom";
 
-import { Route, Switch, BrowserRouter } from "react-router-dom";
 function App() {
-  const [center, useCenter] = useState([44.47456445,-73.2128915592665])
+  // map center constant
+  const [center, useCenter] = useState([44.47456445, -73.2128915592665]);
   return (
+    // page container
     <div>
-      <NavBar/>
-      
+      {/* navbar function */}
+      <NavBar />
       <Switch>
-        <Route exact path="/" render={() => <FullList center={center}/>}  />
-      <SingleList center={center}/>
+        {/* all resturants page */}
+        <Route exact path="/" render={() => <FullList center={center} />} />
+        {/* single resturant page */}
+        <SingleList center={center} />
       </Switch>
     </div>
   );
